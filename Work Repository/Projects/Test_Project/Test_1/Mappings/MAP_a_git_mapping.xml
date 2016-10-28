@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SunopsisExport>
 <Admin RepositoryVersion="05.02.02.05" IsLegacyIdCompatible="false" />
-<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="jWYivWINk0taB2gx3xXt1w==" exportKeySalt="33c9fdf4-5d49-4b6b-9feb-fdb2e3541d51" containsCipherText="false"/>
+<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="oYI9jPMg2q5YWNsI88ZKWg==" exportKeySalt="002c5424-ba44-4fa0-ab05-f2f60a6db263" containsCipherText="false"/>
 <Object class="com.sunopsis.dwg.dbobj.SnpMapping">
 		<Field name="BusinessName" type="java.lang.String">null</Field>
 	<Field name="Descript" type="java.lang.String">null</Field>
@@ -10,7 +10,7 @@
 	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2016-10-27 13:13:22.0]]></Field>
 	<Field name="FirstUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[1f33649b-06d5-4876-b5b8-2a3f0488b1c6]]></Field>
-	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
+	<Field name="IndChange" type="java.lang.String">null</Field>
 	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[8]]></Field>
 	<Field name="IsReusable" type="java.lang.String"><![CDATA[N]]></Field>
 	<Field name="IContextMapRef" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
@@ -2164,6 +2164,14 @@
 	<Field name="TextOnly" type="java.lang.String"><![CDATA[0]]></Field>
 	<Field name="Txt" type="java.lang.String">null</Field>
 	<Field name="ValidationCode" type="java.lang.String">null</Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpScen]]></Field>
+	<Field name="SubType" type="java.lang.String">null</Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[A_GIT_MAPPING Version 001]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[b0a2eaf4-f4f5-406c-975f-893792a62f47]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[1ad57c3108d1b08e7dfc0483c6ce2007a65f8b60]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[Scenarios/SCEN_A_GIT_MAPPING_Version_001.xml]]></Field>
 </Object>
 <Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
 		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_FOLDER.1]]></Field>
