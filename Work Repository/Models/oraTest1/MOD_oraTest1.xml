@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SunopsisExport>
 <Admin RepositoryVersion="05.02.02.05" IsLegacyIdCompatible="false" />
-<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="KLh5jArQOy8b29Ny6P0YOg==" exportKeySalt="9ef64c55-ed98-4d31-b5d3-9d14eed5a57f" containsCipherText="false"/>
+<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="fk/qzvIJnVdxwcuupkoydA==" exportKeySalt="1cf575b7-39d4-4d51-b245-4e9058009fae" containsCipherText="false"/>
 <Object class="com.sunopsis.dwg.dbobj.SnpModel">
 		<Field name="AliasLength" type="com.sunopsis.sql.DbInt"><![CDATA[35]]></Field>
 	<Field name="BegVersion" type="java.sql.Timestamp">null</Field>
@@ -11,7 +11,7 @@
 	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2016-10-03 10:42:48.0]]></Field>
 	<Field name="FirstUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[79e49b8b-4b08-49a2-8951-38fb6d76cde0]]></Field>
-	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
+	<Field name="IndChange" type="java.lang.String">null</Field>
 	<Field name="IndEvoJdbc" type="java.lang.String"><![CDATA[0]]></Field>
 	<Field name="IndJrnMethod" type="java.lang.String"><![CDATA[S]]></Field>
 	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
@@ -65,7 +65,7 @@
 	<Field name="SubType" type="java.lang.String">null</Field>
 	<Field name="Name" type="java.lang.String"><![CDATA[Global]]></Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[3f8a69da-81c2-47d4-bb99-47c04ef5cef3]]></Field>
-	<Field name="Version" type="java.lang.String"><![CDATA[c6bf5391a88510ad9a379566dde3b23d09ad6b76]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[519aa6654098632f711d2ea7a0be2fe77ed61458]]></Field>
 	<Field name="Path" type="java.lang.String"><![CDATA[Global/SMOD_Global.xml]]></Field>
 </Object>
 <Object class="com.sunopsis.dwg.DwgExportSummary">
