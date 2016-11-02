@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OdiGitTagInfo>
+   <ParamMap>
+      <param value="/Work Repository/Models/oraTest1/MOD_oraTest1.xml"/>
+      <param value="/Work Repository/Projects/Test_Project/PROJ_Test_Project.xml"/>
+      <param value="/Work Repository/Projects/Test_Project/Test_1/FOLD_Test_1.xml"/>
+      <param value="/Master Repository/Contexts/CONT_Global.xml"/>
+      <param value="/Master Repository/Technologies/Oracle/Physical Architecture/odidemo/PSC_odidemo_ODI_DEMO.xml"/>
+      <param value="/Work Repository/Models/oraTest1/Global/SMOD_Global.xml"/>
+      <param value="/Work Repository/Projects/Test_Project/Test_1/Mappings/MAP_a_git_mapping.xml"/>
+      <param value="/Work Repository/Projects/Test_Project/Test_1/Mappings/Scenarios/SCEN_A_GIT_MAPPING_Version_001.xml"/>
+      <param value="/Master Repository/Technologies/Oracle/Logical Architecture/LSC_tttt.xml"/>
+      <param value="/Master Repository/Languages/LANG_SQL.xml"/>
+      <param value="/Work Repository/Models/oraTest1/Global/TAB_SRC_CITY.xml"/>
+      <param value="/Master Repository/Technologies/Oracle/TECH_Oracle.xml"/>
+      <param value="/Work Repository/Models/oraTest1/Global/TAB_TRG_CITY.xml"/>
+      <param value="/Work Repository/Models/oraTest1/Global/TAB_TRG_COUNTRY.xml"/>
+      <param value="/Master Repository/Technologies/Oracle/Physical Architecture/odidemo/CONN_odidemo.xml"/>
+      <param value="/Work Repository/Models/oraTest1/Global/TAB_TRG_REGION.xml"/>
+   </ParamMap>
+</OdiGitTagInfo>
